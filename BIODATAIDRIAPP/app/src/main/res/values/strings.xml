@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BIODATAIDRI APP</string>
+    <string-array name="jenis_kelamin">
+    <item>pilih jenis kelamin</item>
+    <item>laki-laki</item>
+    <item>perempuan</item>
+    </string-array>
+</resources>
